@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846433288733",
+    "project_id": "chattr-a3821",
+    "storage_bucket": "chattr-a3821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846433288733:android:da56451d1df6233d097cf4",
+        "android_client_info": {
+          "package_name": "com.example.chattr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846433288733-0lr16fvu0mghu8e11hu0jn4o2cscb941.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACPyIm8gCah8rz5kqiv5Ik1bOW5IH-vg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846433288733-0lr16fvu0mghu8e11hu0jn4o2cscb941.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
